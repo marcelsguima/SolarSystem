@@ -4,7 +4,7 @@ class SolarSystem extends React.Component {
   render() {
     return (
       <div data-testid="solar-system">
-        teste
+        teste solar system
       </div>
     );
   }
