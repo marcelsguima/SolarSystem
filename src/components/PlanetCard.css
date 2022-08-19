@@ -1,0 +1,23 @@
+img {
+    width: 200px;
+  }
+  
+p {
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 6px;
+    padding: 5px;
+    margin: 50px;
+  }
+  .gamelist-section div {
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    min-height: 150px;
+  }
+  
+  .gamelist-section div span {
+    margin-top: 5px;
+  }
