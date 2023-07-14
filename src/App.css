@@ -1,3 +1,41 @@
 .App {
   text-align: center;
 }
+
+img {
+  width: 200px;
+}
+
+body {
+  background-image: url(https://wallpaperaccess.com/full/17520.jpg);
+}
+
+.pCard {
+  border: 2px solid beige;
+  border-radius: 6px;
+  display: flex;
+  justify-content: space-between;
+  margin: 50px;
+  padding: 5px;
+  width: 200px;
+}
+
+p {
+  justify-content: center;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  min-height: 150px;
+  text-align: start;
+}
+
+.gamelist-section div span {
+  margin-top: 5px;
+}
+
+
+h2 {
+  font-weight: 300;
+}
